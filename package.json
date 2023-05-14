@@ -1,0 +1,19 @@
+{
+  "name": "project-2-rest-api",
+  "version": "1.0.0",
+  "description": "This project for REST API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Ajay Baviskar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
